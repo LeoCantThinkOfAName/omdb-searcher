@@ -1,0 +1,16 @@
+{
+  "name": "OMDB Searcher",
+  "displayName": "OMDB Searcher",
+  "expo": {
+    "name": "OMDB Searcher",
+    "slug": "OMDB-Searcher",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": ["ios", "android", "web"],
+    "android": {
+      "package": "OMDB.Searcher.by.LCTOAN"
+    }
+  }
+}
